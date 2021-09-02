@@ -9,3 +9,4 @@ version = "0.1.0"
 #bevy = {git = "https://github.com/bevyengine/bevy", rev = "dea292d199820008b8746218b8f15bb6909cc238", features = ["dynamic"]}
 bevy = {version = "^0.5", features = ["dynamic"]}
 bevy-inspector-egui = {git = "https://github.com/jakobhellermann/bevy-inspector-egui"}
+macroquad = {version = "^0.3"}
